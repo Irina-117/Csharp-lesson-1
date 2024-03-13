@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\bin\Debug\net8.0\HWlecture.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\bin\Debug\net8.0\HWlecture.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\bin\Debug\net8.0\HWlecture.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\bin\Debug\net8.0\HWlecture.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\bin\Debug\net8.0\HWlecture.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.sourcelink.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\refint\HWlecture.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\HWlecture.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\csharp\Csharp-lesson-1\HWlecture\obj\Debug\net8.0\ref\HWlecture.dll
